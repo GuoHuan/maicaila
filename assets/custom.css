@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ui-footer h4.ui-title {
+	font-family: "Microsoft YaHei UI";
+	font-size: 11px;
+	font-style: normal;
+	color: #D6D6D6;
+	margin-top: 1px;
+	margin-right: 0px;
+	margin-bottom:1px;
+	margin-left: 0px;
+}
