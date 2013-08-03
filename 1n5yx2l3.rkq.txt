@@ -1,0 +1,43 @@
+﻿初始化代码。
+initial the code .
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   assets/custom.css
+#	new file:   images/ajax-loader.png
+#	new file:   images/icons-18-black.png
+#	new file:   images/icons-18-white.png
+#	new file:   images/icons-36-black.png
+#	new file:   images/icons-36-white.png
+#	new file:   images/vegetables/acorn_squash.png
+#	new file:   images/vegetables/apple.png
+#	new file:   images/vegetables/bell_pepper.png
+#	new file:   images/vegetables/blueberries.png
+#	new file:   images/vegetables/broccoli.png
+#	new file:   images/vegetables/carrot.png
+#	new file:   images/vegetables/celery.png
+#	new file:   images/vegetables/chili_pepper.png
+#	new file:   images/vegetables/eggplant.png
+#	new file:   images/vegetables/lettuce.png
+#	new file:   images/vegetables/mushroom.png
+#	new file:   images/vegetables/onion.png
+#	new file:   images/vegetables/potato.png
+#	new file:   images/vegetables/pumpkin.png
+#	new file:   images/vegetables/radish.png
+#	new file:   images/vegetables/squash.png
+#	new file:   images/vegetables/strawberry.png
+#	new file:   images/vegetables/sugar_snap.png
+#	new file:   images/vegetables/tomato.png
+#	new file:   images/vegetables/yumi.png
+#	new file:   images/vegetables/zucchini.png
+#	new file:   index.html
+#	new file:   jquery-1.6.4.min.js
+#	new file:   jquery.mobile-1.0.min.js
+#	new file:   jquery.mobile.structure-1.0.min.css
+#	new file:   jquery.mobile.theme-1.0.min.css
+#
+
